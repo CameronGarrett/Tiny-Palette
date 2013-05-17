@@ -1,13 +1,13 @@
-RESOURCES
+# RESOURCES
 - patterns from - http://www.patternify.com/
 - extract color profiles - http://bassett-jones.com/extract-a-web-sites-colour-palette/ - https://github.com/dealingwith/Color-Palette
 - .css() hook return hex - http://stackoverflow.com/questions/6177454/can-i-force-jquery-cssbackgroundcolor-returns-on-hexadecimal-format
 
-TO-DO
+# TO-DO
 - snap to corners
-O keep palette inside browser window on add / resize
+- keep palette inside browser window on add / resize
 - swich between vertical & horizontal mode
-O flash on change color?
+- flash on change color?
 - make bookmarklet
 - local storage - save position
 - put empty swatch outside of swatch sortable containment
