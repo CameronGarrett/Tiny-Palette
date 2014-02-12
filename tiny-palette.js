@@ -41,7 +41,7 @@ function paletteInit() { /* only call once per load */
     /* CSS */
         function loadCss() {
             var paletteStyle         = document.createElement('link');
-            paletteStyle.href        = 'http://host.camerongarrett.com/Tiny-Palette/tiny-palette.css';
+            paletteStyle.href        = 'http://raw.github.com/Cameron913/Tiny-Palette/master/tiny-palette.css';
             paletteStyle.type        = 'text/css';
             paletteStyle.rel         = 'stylesheet';
             paletteStyle.media       = 'screen';
