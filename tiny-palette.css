@@ -1,6 +1,6 @@
 /* palette container */
     div#palette-container {
-        position: absolute !important; /* prevents inline 'position: relative' from breaking drag */
+        position: fixed !important; /* prevents inline 'position: relative' from breaking drag */
         top: 5px; left: 15px;
         display: block;
         box-sizing: border-box;
